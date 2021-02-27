@@ -4,9 +4,9 @@ module.exports = {
   site: {
     siteMetadata: {
       url: 'http://localhost',
-      title: 'Test title',
-      subtitle: 'Test subtitle',
-      copyright: 'Test copyright',
+      title: 'Blog By Randeel KV',
+      subtitle: 'THis is the testing Title goes with Site',
+      copyright: 'All Rights Reserved',
       disqusShortname: '',
       postsPerPage: 4,
       menu: [
